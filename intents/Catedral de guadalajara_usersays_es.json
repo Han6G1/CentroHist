@@ -1,0 +1,69 @@
+[
+  {
+    "id": "44df585b-f21e-4ff8-bbbd-9eda967918cb",
+    "data": [
+      {
+        "text": "Que estoy viendo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d40b61cb-da75-4915-84f8-7e50c8f7aaff",
+    "data": [
+      {
+        "text": "Sabes algo sobre la catedral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d1adf94-8662-47d7-a0e7-d9599b4514ee",
+    "data": [
+      {
+        "text": "Datos sobre la catedral de ",
+        "userDefined": false
+      },
+      {
+        "text": "Guadalajara",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbfc0175-fbe6-402c-9358-161344152d9b",
+    "data": [
+      {
+        "text": "Cuéntame sobre la ",
+        "userDefined": false
+      },
+      {
+        "text": "historia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de la catedral de ",
+        "userDefined": false
+      },
+      {
+        "text": "Guadalajara",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

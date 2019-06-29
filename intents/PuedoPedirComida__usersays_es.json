@@ -1,0 +1,43 @@
+[
+  {
+    "id": "77a391ff-25e0-4693-b23f-f27a892b50f3",
+    "data": [
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " restaurantes cercas de aquí",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94154163-30cc-4316-958d-2195c58864e4",
+    "data": [
+      {
+        "text": "quiero comer algo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36185968-83fc-46f2-8d6f-270ca0e49e79",
+    "data": [
+      {
+        "text": "Puedo pedir comida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

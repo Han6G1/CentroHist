@@ -1,0 +1,38 @@
+[
+  {
+    "id": "fc8cb59a-dc6f-404f-b649-e6c80bfb8888",
+    "data": [
+      {
+        "text": "quien es el",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b238962d-db98-420a-ba9b-8553c6133dfc",
+    "data": [
+      {
+        "text": "quien es",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc8276c7-be6e-471a-abdf-f5f8b5977c28",
+    "data": [
+      {
+        "text": "De quién es está estatua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

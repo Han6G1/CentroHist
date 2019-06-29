@@ -1,0 +1,30 @@
+{
+  "id": "e57a5156-7b99-4c3e-843d-15e0a1d22ecd",
+  "name": "Teatro degollado",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Por supuesto! El Teatro Santos Degollado es un edificio de mediados del siglo XIX, ubicado en la ciudad mexicana de Guadalajara. El inmueble es escenario habitual de recitales, conciertos, espectáculos de danza clásica y contemporánea. Asimismo es la sede de la Orquesta Filarmónica de Jalisco."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

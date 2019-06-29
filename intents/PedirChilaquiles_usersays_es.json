@@ -1,0 +1,56 @@
+[
+  {
+    "id": "7eea4d1f-ee5f-4f53-a21f-359ddaa9bac2",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "chilaquiles",
+        "alias": "Restaurantes",
+        "meta": "@Restaurantes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "379acce1-7852-4e16-96f4-b9c6b6a720b4",
+    "data": [
+      {
+        "text": "Quiero Unos ",
+        "userDefined": false
+      },
+      {
+        "text": "chilaquiles",
+        "alias": "Restaurantes",
+        "meta": "@Restaurantes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e984d1ae-5ce1-4b57-8540-9775e72847f4",
+    "data": [
+      {
+        "text": "Quiero unos  ",
+        "userDefined": false
+      },
+      {
+        "text": "chilaquiles rojos",
+        "alias": "Restaurantes",
+        "meta": "@Restaurantes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

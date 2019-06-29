@@ -1,0 +1,35 @@
+{
+  "id": "57cd8399-a342-4093-a3ec-21013b5cd683",
+  "name": "Palacio de gobierno",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Por supuesto! El Palacio Municipal de Guadalajara es un edificio de estilo neocolonial construido entre 1949 y 1952 que es sede del Ayuntamiento municipal de la capital del estado de Jalisco, México. Se encuentra localizado en el centro histórico de Jalisco. La fachada del inmueble originalmente tenía un estilo neoclásico.1​\n\nActualmente el edificio alberga las oficinas de la Presidencia Municipal, las regidurías, las sindicaturas, la Secretaria del Ayuntamiento, y algunas otras."
+        },
+        {
+          "type": 4,
+          "lang": "es",
+          "payload": {}
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "e97cdee8-90fd-4945-a4da-0b93bd3a7b7d",
+  "name": "PedirTorta",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3db8f190-aa43-47d5-957d-7b3e4141009e",
+          "required": false,
+          "dataType": "@Restaurantes",
+          "name": "Restaurantes",
+          "value": "$Restaurantes",
+          "isList": false
+        },
+        {
+          "id": "6e7eb858-27b6-4534-8dce-b9fdc2b3098a",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Ya veo, venden $number $Restaurantes.original en  Las ahogadas de Sánchez, un restaurante calificado con 4.5 puntos en TripAdvisor"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

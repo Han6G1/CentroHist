@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Chilaquiles Rojos",
+    "synonyms": [
+      "Chilaquil rojo",
+      "Chilaquiles",
+      "Chilaquiles Rojos"
+    ]
+  },
+  {
+    "value": "Chilaquiles Verdes",
+    "synonyms": [
+      "Chilaquiles Verdes",
+      "chilaquil verde"
+    ]
+  },
+  {
+    "value": "Enchilada De Pollo",
+    "synonyms": [
+      "Enchiladas de pollo"
+    ]
+  },
+  {
+    "value": "Tortas ahogadas",
+    "synonyms": [
+      "Bolillo bañado",
+      "Tortas ahogadas",
+      "Tortas en salsa",
+      "torta bañada en salsa"
+    ]
+  }
+]

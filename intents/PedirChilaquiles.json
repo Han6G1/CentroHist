@@ -1,0 +1,39 @@
+{
+  "id": "d7641fb4-ad99-4580-baf4-4e70d3e08ee1",
+  "name": "PedirChilaquiles",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9017e9e5-50d4-46b2-b325-e1bf7e61fd46",
+          "required": false,
+          "dataType": "@Restaurantes",
+          "name": "Restaurantes",
+          "value": "$Restaurantes",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Muy bien, a mi también me encantan los chilaquiles, los venden en el restaurante La morenita, están exquisitos, puedes llamarlos al número 3336580466",
+            "Perfecto, hay un restaurante que vende desayunos, se llama La morenita, se ubica en la calle Pedro Loza 520"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

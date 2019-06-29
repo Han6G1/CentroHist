@@ -1,0 +1,35 @@
+{
+  "id": "c34a6ffc-cea1-4af8-9fff-a3ad09f6adf3",
+  "name": "Experiencias de personas reales",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "mi experiencia en el centro es asistir al día del grito de independencia, en él hubo fuegos artificiales, mucha comida tradicional, música como el mariachi y un gran ambiente jaja",
+            "Bueno, de hecho tengo más un dato interesante que una experiencia. En plaza de armas (al lado del palacio de gobierno y catedral) hay un reloj que tiene un balazo, ese balazo se lo dieron en la revolución por que necesitaban que dejara de marcar las horas, la persona que iba a disparar lo falló y aún se puede ver donde quedó esa marca",
+            "En el kiosko del centro (el que está pegado al palacio de gobierno), siempre ha sido agradable sentarse en una banca. De las tiendas cercanas comprar un poco de alpiste y alimentar algunas palomas. Por otro lado, comprar un bote con jabón para burbujas y jugar hasta que éste se agote.",
+            "Una experiencia que tuve fue cuando fui al palacio de gobierno, era mi primera vez ahí ( ya que soy extranjera) fue algo sorprendente, después nos compraron un chocolate y mis amigas y yo compartimos para tener más chocolate"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "becd28b9-44fd-4094-81f6-7e91e3775b0a",
+    "data": [
+      {
+        "text": "Que ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " para comer aquí cerca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef61330d-dba3-46b7-b0a4-e874c4edee41",
+    "data": [
+      {
+        "text": "Que restaurantes me recomiendas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

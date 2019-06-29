@@ -1,0 +1,27 @@
+{
+  "id": "ac7c0663-cf2e-4377-85c2-4f05d3138b0b",
+  "name": "ManuelGomezMorinIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Fue Manuel Gómez Morin, el fundador del Partido Acción Nacional y rector de la Universidad Nacional de México. Legislador en temas de política monetaria. Fundó la Escuela Bancaria del Banco de México en 1929"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

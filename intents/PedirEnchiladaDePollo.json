@@ -1,0 +1,44 @@
+{
+  "id": "b3b8b214-6441-43ad-8078-781d75d5d05a",
+  "name": "PedirEnchiladaDePollo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f423c959-aa14-4d24-a6ec-bed333d06181",
+          "required": false,
+          "dataType": "@Restaurantes",
+          "name": "Restaurantes",
+          "value": "$Restaurantes",
+          "isList": false
+        },
+        {
+          "id": "9e724ab7-1d50-48a0-a324-01fbaf694806",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Quieres $number $Restaurantes ,  La chata de Guadalajara es un lugar que vende desde desayunos hasta cenas, ahí los encontrarás. Tienen 4.5 puntos según TripAdvisor"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

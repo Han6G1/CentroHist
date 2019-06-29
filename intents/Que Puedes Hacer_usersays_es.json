@@ -1,0 +1,62 @@
+[
+  {
+    "id": "9fd6464e-4f42-4884-adaa-faeefb4e80bc",
+    "data": [
+      {
+        "text": "Que te puedo preguntar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c01611ab-a33a-4f3f-b53e-e215e9be59d7",
+    "data": [
+      {
+        "text": "en que me sirves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03988538-d757-44d0-8e8e-d538c2ecca83",
+    "data": [
+      {
+        "text": "Que funciones tienes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5adc3834-2e40-4482-8293-6f6d57602ad3",
+    "data": [
+      {
+        "text": "Y que haces",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b450ca7a-f0c4-43a3-b751-407d284c2211",
+    "data": [
+      {
+        "text": "Que puedes hacer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

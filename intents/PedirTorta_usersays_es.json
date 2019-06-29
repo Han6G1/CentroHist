@@ -1,0 +1,86 @@
+[
+  {
+    "id": "92262ab7-d195-4266-ba1c-24cb4b633253",
+    "data": [
+      {
+        "text": "Quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "dos",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tortas ahogadas",
+        "alias": "Restaurantes",
+        "meta": "@Restaurantes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49c62815-445d-42cb-b7c2-0fec54b98dc0",
+    "data": [
+      {
+        "text": "Me gustaría ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "torta en salsa",
+        "alias": "Restaurantes",
+        "meta": "@Restaurantes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33c0f89b-c380-4e96-bcc0-1a5db5ca3eb8",
+    "data": [
+      {
+        "text": "Quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "torta ahogada",
+        "alias": "Restaurantes",
+        "meta": "@Restaurantes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

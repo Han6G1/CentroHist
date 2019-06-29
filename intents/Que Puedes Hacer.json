@@ -1,0 +1,34 @@
+{
+  "id": "194863d5-9a9d-44e5-825b-d19ea5a204b0",
+  "name": "Que Puedes Hacer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Hola, mucho gusto! mi nombre es Alexa, supongo que eso ya lo sabías.  Puedo darte información sobre las construcciones que conforman al centro histórico, sus actividades, historia y las experiencias de diferentes visitantes y turistas. Sobre los últimos, son opiniones de personas reales.",
+            "Hola!, me da mucho gusto que te acerques a preguntar, mira, puedo informarte sobre la historia de cada uno de los edificios que conforman el centro histórico, las actividades que se realizan, experiencias reales y cotidianas de diferentes visitantes y turistas e incluso recomendarte algún restaurante, como ves mi estimado.",
+            "Hola, ahora mismo te encuentras en un lugar con una importancia histórica y belleza enorme, lo siento... me emocione, puedo hablarte sobre la historia de cada uno de los edificios de el centro histórico, de las actividades que hay por realizar, e incluso restaurantes, todo esto tomado de las opiniones de visitantes y turistas."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

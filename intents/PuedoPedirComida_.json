@@ -1,0 +1,30 @@
+{
+  "id": "6ad817c1-ac5d-4032-ae9f-04b8b628d402",
+  "name": "PuedoPedirComida?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Puedo recomendarte algunos restaurantes cercas de aquí, por ejemplo dime, quiero una torta ahogada.",
+            "Puedo recomendarte algunos restaurantes cercas de aquí, por ejemplo dime, quiero unos chilaquiles"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

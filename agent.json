@@ -1,0 +1,106 @@
+{
+  "description": "",
+  "language": "es",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "centrohistorico-vugbfa",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "e97cdee8-90fd-4945-a4da-0b93bd3a7b7d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "dbe628f6-42ab-4d1f-8137-7c384d64a2a2",
+        "signInRequired": false
+      },
+      {
+        "intentId": "cceea9fa-2403-45d8-87ce-7105fce69de4",
+        "signInRequired": false
+      },
+      {
+        "intentId": "194863d5-9a9d-44e5-825b-d19ea5a204b0",
+        "signInRequired": false
+      },
+      {
+        "intentId": "718a18a5-913a-41fb-aecd-424f6ccf8e25",
+        "signInRequired": false
+      },
+      {
+        "intentId": "7fe06a1a-4551-428f-ac67-2201a3f3a5fb",
+        "signInRequired": false
+      },
+      {
+        "intentId": "6ad817c1-ac5d-4032-ae9f-04b8b628d402",
+        "signInRequired": false
+      },
+      {
+        "intentId": "5c19aefa-7401-48cf-9af7-ca2e2ac6cb6d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "a8a7785e-be6d-41ec-8875-0c5201d14c22",
+        "signInRequired": false
+      },
+      {
+        "intentId": "4078dd4f-b35f-4d9c-9361-230ec0ec0561",
+        "signInRequired": false
+      },
+      {
+        "intentId": "d7641fb4-ad99-4580-baf4-4e70d3e08ee1",
+        "signInRequired": false
+      },
+      {
+        "intentId": "c34a6ffc-cea1-4af8-9fff-a3ad09f6adf3",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ac7c0663-cf2e-4377-85c2-4f05d3138b0b",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b3b8b214-6441-43ad-8078-781d75d5d05a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "57cd8399-a342-4093-a3ec-21013b5cd683",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e57a5156-7b99-4c3e-843d-15e0a1d22ecd",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [
+      "7fe06a1a-4551-428f-ac67-2201a3f3a5fb"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/New_York",
+  "webhook": {
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ca607ad8-4f83-4155-a432-5e97cdd7254b",
+  "name": "Centro histórico",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Es el sitio más bello y emblemático de la segunda ciudad más grande del país, Con más de 4 siglos de existencia, el gran complejo está conformado por numerosos edificios,  templos,  monumentos y plazas que expresan el folclor, la historia y la riqueza cultural de la ciudad.",
+            "Encantado, el centro histórico es un lugar muy bello e interesante ubicado en la segunda ciudad más grande del país. Tiene más de 4 siglos de existencia. Está conformado por la catedral de Guadalajara, museo de la ciudad, plaza universidad, palacio de gobierno, hotel francés,  monumento a la independencia, palacio de Velasco y la iglesia de San José."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "44986144-a307-4400-a2db-0edab9ba2e5b",
+    "data": [
+      {
+        "text": "Dato sobre el palacio de gobierno",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ab3411c-ae75-4e6c-baf0-67ae2f652ad9",
+    "data": [
+      {
+        "text": "Que sabes sobre el Palacio de gobierno",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9cf54bf1-f7d2-4b0b-9433-f7b1b3c7286f",
+    "data": [
+      {
+        "text": "Puedes contarme sobre el Palacio de gobierno",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

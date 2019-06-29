@@ -1,0 +1,119 @@
+[
+  {
+    "id": "40ee1c8e-0d68-4313-b4c7-fdce447be724",
+    "data": [
+      {
+        "text": "Información centro histórico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3124cb5-a221-49be-8613-a2a2749eea8d",
+    "data": [
+      {
+        "text": "Información sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "el centro",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " histórico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ebb1285-8a9e-49dc-9a40-fe262a548f4a",
+    "data": [
+      {
+        "text": "Dame ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dato curioso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c63a2ae-f5a2-4b95-b489-347051d39965",
+    "data": [
+      {
+        "text": "Curiosidades del ",
+        "userDefined": false
+      },
+      {
+        "text": "centro",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " histórico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9b4455c-29d6-4a88-ae0a-dc433cb67952",
+    "data": [
+      {
+        "text": "Qué sabes sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "el centro",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " histórico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c61bbc1-414c-4396-bc86-0129fe836924",
+    "data": [
+      {
+        "text": "¿Qué es ",
+        "userDefined": false
+      },
+      {
+        "text": "el centro",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " histórico?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

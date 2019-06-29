@@ -1,0 +1,35 @@
+{
+  "id": "7fe06a1a-4551-428f-ac67-2201a3f3a5fb",
+  "name": "¿Dónde Encuentro Un Café?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.restaurante",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "¿Qué Quieres Comer?",
+            "Encuentro 3 Restaurantes Cerca De Aquí",
+            "¿Hambre?, Encuentro 5 Restaurantes Por Aquí"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

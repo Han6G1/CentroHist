@@ -1,0 +1,30 @@
+{
+  "id": "cceea9fa-2403-45d8-87ce-7105fce69de4",
+  "name": "Catedral de guadalajara",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "La catedral de Guadalajara, o catedral basílica de la Asunción de María Santísima es una catedral de México, parroquia sede de la arquidiócesis de Guadalajara y uno de los edificios más representativos de la ciudad, por sus torres con agujas neogóticas y por su rica historia."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
